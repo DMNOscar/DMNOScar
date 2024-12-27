@@ -1,22 +1,36 @@
-# 👋 ¡Hola! Soy Oscar 👨🏻‍💻
+# 👋 ¡Hola! Soy Oscar Daniel Martínez Núñez  
 
-### 🚀 Desarrollador de aplicaciones móviles
-Tengo 7 años de experiencia creando aplicaciones Android e iOS nativas utilizando **Kotlin**, **Swift**, **Flutter** y **Java**. Me apasiona resolver problemas y transformar ideas en productos digitales funcionales.
+### 🚀 Mobile Developer | Ingeniero en Tecnologías de la Información  
+Soy un desarrollador móvil con más de 6 años de experiencia creando aplicaciones nativas para Android e iOS. Manejo lenguajes como **Kotlin**, **Swift**, **Java** y **Flutter** para construir soluciones innovadoras y funcionales.  
 
 ---
 
-### 📌 Sobre mí
-- 🌎 **Ubicación:** Salvatierra, Guanajuato, México.
-- 🎓 **Formación:** Ingeniero en TICs.
-- 🌟 **Habilidades principales:**
-  - Desarrollo móvil: Kotlin, Swift, Java, Flutter (Dart).
-  - Arquitecturas: MVVM, VIPER, VMC, Clean Architecture.
-  - Herramientas: Android Studio, Xcode, VS Code, Git.
+### 📌 Sobre mí  
+- 🌎 **Ubicación**: Salvatierra, Guanajuato, México.  
+- 🎓 **Formación académica**: Ingeniería en Tecnologías de la Información, ITESS.  
+- 🌟 **Especialidades**:  
+  - Desarrollo móvil nativo y multiplataforma.  
+  - Arquitecturas: MVVM, MVC, VIPER.
   - Bases de datos: Room, CoreData, Firebase Firestore.
+  - Publicación en App Store y Google Play. 
+  
 
 ---
+### 💼 Proyectos destacados  
+
+## [App de Entrenamiento en Línea (Worqout)](https://play.google.com/store/apps/details?id=com.worqout&hl=es)  
+Aplicación móvil desarrollada para seguimiento de rutinas de entrenamiento personalizadas.  
+
+- **Plataformas**: Android, iOS  
+- **Tecnologías utilizadas**: Kotlin, Swift, Firebase  
+- **Rol**: Desarrollador principal en funciones de experiencia del usuario y rendimiento.
 
 
+### 💻 Proyectos independientes  
+
+1. **[Task List App](https://github.com/DMNOscar/MyTaskList)**  
+   - Aplicación para gestionar tareas diarias con categorización.  
+   - Desarrollada en Kotlin usando Room y MVVM.
 
 ---
 
