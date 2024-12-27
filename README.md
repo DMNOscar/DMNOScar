@@ -10,7 +10,7 @@ Tengo 7 años de experiencia creando aplicaciones Android e iOS nativas utilizan
 - 🎓 **Formación:** Ingeniero en TICs.
 - 🌟 **Habilidades principales:**
   - Desarrollo móvil: Kotlin, Swift, Java, Flutter (Dart).
-  - Arquitecturas: MVVM, Clean Architecture.
+  - Arquitecturas: MVVM, VIPER, VMC, Clean Architecture.
   - Herramientas: Android Studio, Xcode, VS Code, Git.
   - Bases de datos: Room, CoreData, Firebase Firestore.
 
