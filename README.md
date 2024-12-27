@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oscar
+# 👋 ¡Hola! Soy Oscar 👨🏻‍💻
 
 ### 🚀 Desarrollador de aplicaciones móviles
 Tengo 7 años de experiencia creando aplicaciones Android e iOS nativas utilizando **Kotlin**, **Swift**, **Flutter** y **Java**. Me apasiona resolver problemas y transformar ideas en productos digitales funcionales.
