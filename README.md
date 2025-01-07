@@ -31,11 +31,11 @@ Aplicación móvil desarrollada para seguimiento de rutinas de entrenamiento per
 
 1. **[Task List App](https://github.com/DMNOscar/MyTaskList)**  
    - Aplicación para gestionar tareas diarias con categorización.  
-   - Desarrollada en Kotlin usando Room y MVVM.
+   - Desarrollada en Kotlin usando Jetpack Compose, Room y MVVM.
 
 2. **[Rick And Morty App](https://github.com/DMNOscar/RickAndMortyApp)**  
-   - Aplicación que lista los personajes de la serie y muestra información detallada de cada uno de ellos.  
-   - Desarrollada en Kotlin usando Room y MVVM.
+   - Aplicación que lista los personajes de la serie, pude buscar un personajes y mostrar la información detallada de cada uno de ellos.  
+   - Desarrollada en Kotlin usando Jetpack Compose y MVVM.
 
 ---
 
