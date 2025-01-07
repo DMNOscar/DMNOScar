@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oscar Daniel Martínez Núñez  
+# 👋 ¡Hola! Soy Oscar Martínez  
 
 ### 🚀 Mobile Developer | Ingeniero en Tecnologías de la Información  
 Soy un desarrollador móvil con más de 6 años de experiencia creando aplicaciones nativas para Android e iOS. Manejo lenguajes como **Kotlin**, **Swift**, **Java** y **Flutter** para construir soluciones innovadoras y funcionales.  
