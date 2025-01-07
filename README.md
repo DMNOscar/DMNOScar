@@ -6,7 +6,7 @@ Soy un desarrollador móvil con más de 6 años de experiencia creando aplicacio
 ---
 
 ### 📌 Sobre mí  
-- 🌎 **Ubicación**: Salvatierra, Guanajuato, México.  
+- 🌎 **Ubicación**: Guanajuato, México.  
 - 🎓 **Formación académica**: Ingeniería en Tecnologías de la Información, ITESS.  
 - 🌟 **Especialidades**:  
   - Desarrollo móvil nativo y multiplataforma.  
