@@ -32,8 +32,13 @@ Aplicación móvil desarrollada para seguimiento de rutinas de entrenamiento per
 1. **[Task List App](https://github.com/DMNOscar/MyTaskList)**  
    - Aplicación para gestionar tareas diarias con categorización.  
    - Desarrollada en Kotlin usando Jetpack Compose, Room y MVVM.
+  
+2. **[Demo Store](https://github.com/DMNOscar/MyStoreApp)**  
+   - Aplicación que lista productos, permite visualizar los detalls de cada uno asi como agregarlo al carrito con persistencia de datos.  
+   - Desarrollada en Swift usando UIkit, Data Core y VIPER.
 
-2. **[Rick And Morty App](https://github.com/DMNOscar/RickAndMortyApp)**  
+
+3. **[Rick And Morty App](https://github.com/DMNOscar/RickAndMortyApp)**  
    - Aplicación que lista los personajes de la serie, pude buscar un personajes y mostrar la información detallada de cada uno de ellos.  
    - Desarrollada en Kotlin usando Jetpack Compose y MVVM.
 
