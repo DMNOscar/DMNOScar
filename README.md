@@ -25,6 +25,13 @@ Aplicación móvil desarrollada para seguimiento de rutinas de entrenamiento per
 - **Tecnologías utilizadas**: Kotlin, Swift, Firebase  
 - **Rol**: Desarrollador principal en funciones de experiencia del usuario y rendimiento.
 
+## [Tienda en linea (Morpheus DSS)](https://play.google.com/store/apps/details?id=com.morpheus.smartshop&hl=es)  
+Aplicación móvil diseñada para optimizar el proceso de ventas y gestionar pedidos de equipos celulares. Facilita el levantamiento de ventas, seguimiento de pedidos y la visualización de información de productos.  
+
+- **Plataformas**: Android  
+- **Tecnologías utilizadas**: Java, XML, Firebase  
+- **Rol**: Desarrollador principal, enfocado en mejorar la experiencia del usuario y optimizar el rendimiento de la aplicación.
+
 ---
 
 ### 💻 Proyectos independientes  
