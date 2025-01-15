@@ -35,7 +35,7 @@ Aplicación móvil desarrollada para seguimiento de rutinas de entrenamiento per
   
 2. **[Demo Store](https://github.com/DMNOscar/MyStoreApp)**  
    - Aplicación que lista productos, permite visualizar los detalls de cada uno asi como agregarlo al carrito con persistencia de datos.  
-   - Desarrollada en Swift usando UIkit, Data Core y VIPER.
+   - Desarrollada en Swift usando UIkit, Core Data y VIPER.
 
 
 3. **[Rick And Morty App](https://github.com/DMNOscar/RickAndMortyApp)**  
